@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-05-30T18:02:58 EET" name="Default suite" finished-at="2021-05-30T18:03:02 EET" duration-ms="3986">
+  <suite started-at="2021-06-02T11:03:49 TRT" name="Default suite" finished-at="2021-06-02T11:03:49 TRT" duration-ms="139">
     <groups>
     </groups>
-    <test started-at="2021-05-30T18:02:58 EET" name="Default test" finished-at="2021-05-30T18:03:02 EET" duration-ms="3986">
-      <class name="paven.Demo01_get_request">
-        <test-method signature="getTodos()[pri:0, instance:paven.Demo01_get_request@19d481b]" started-at="2021-05-30T18:02:58 EET" name="getTodos" finished-at="2021-05-30T18:03:02 EET" duration-ms="3928" status="PASS">
+    <test started-at="2021-06-02T11:03:49 TRT" name="Default test" finished-at="2021-06-02T11:03:49 TRT" duration-ms="139">
+      <class name="swtestacademy.Get01">
+        <test-method signature="setUp()[pri:0, instance:swtestacademy.Get01@1534f01b]" started-at="2021-06-02T11:03:49 TRT" name="setUp" finished-at="2021-06-02T11:03:49 TRT" duration-ms="25" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getTodos -->
-      </class> <!-- paven.Demo01_get_request -->
+        </test-method> <!-- setUp -->
+      </class> <!-- swtestacademy.Get01 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

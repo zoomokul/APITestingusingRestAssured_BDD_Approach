@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="paven.Test_Serilation">
+      <class name="devqa.Post01_Request">
         <methods>
-          <include name="createUserwithSerilation"/>
+          <include name="postRequestWithString"/>
         </methods>
-      </class> <!-- paven.Test_Serilation -->
+      </class> <!-- devqa.Post01_Request -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
